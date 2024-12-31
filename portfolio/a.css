@@ -1,0 +1,96 @@
+.top-container {
+    position: relative;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.cloud {
+    width: 400px; 
+    height: 200px; 
+    border-radius: 15px 15px 15px 15px;
+}
+
+.title {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.info{
+    position: relative ;
+    text-align: center;
+    margin-bottom: 50px;
+    h1{
+        color: rgb(9, 184, 190);
+}
+
+}
+.pimage{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    margin: auto;
+}
+
+.simage{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    margin: auto;
+}
+
+.skills{
+    position: relative ;
+    text-align: center;
+    margin-bottom: 50px;
+    h1{
+        color: rgb(9, 184, 190);}
+}
+
+.simage{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    margin: auto;
+}
+
+.contact{
+    position: relative ;
+    text-align: center;
+    margin-bottom: 50px;
+    h1{
+        color: rgb(9, 184, 190);}
+}
+
+.simage{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    margin: auto;
+}
+
+.footer{
+    position: relative ;
+    text-align: center;
+}
+.button{
+    background-color: rgb(10, 196, 196);
+}
